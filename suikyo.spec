@@ -12,6 +12,7 @@ Group:       System/Internationalization
 License:     GPL
 URL:         http://taiyaki.org/suikyo/
 Source0:     %{name}-%{version}.tar.bz2
+BuildRoot:   %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:       ruby
 BuildRequires:  ruby-devel
 
