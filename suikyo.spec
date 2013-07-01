@@ -6,7 +6,7 @@
 %define libname %{libname_orig}0
 
 Name:		suikyo
-Summary:	Suikyo is Romaji-Kana conversion Library
+Summary:	Is Romaji-Kana conversion Library
 Version:	2.1.0
 Release:	10
 Group:		System/Internationalization
