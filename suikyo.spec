@@ -6,9 +6,9 @@
 %define libname %{libname_orig}0
 
 Name:		suikyo
-Summary:	Is Romaji-Kana conversion Library
+Summary:	Romaji-Kana conversion Library
 Version:	2.1.0
-Release:	10
+Release:	11
 Group:		System/Internationalization
 License:	GPL
 URL:		http://taiyaki.org/suikyo/
