@@ -9,7 +9,7 @@
 Name:		suikyo
 Summary:	Romaji-Kana conversion Library
 Version:	2.1.0
-Release:	18
+Release:	19
 Group:		System/Internationalization
 License:	GPL
 URL:		http://taiyaki.org/suikyo/
