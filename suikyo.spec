@@ -12,7 +12,7 @@ Version:	2.1.0
 Release:	22
 Group:		System/Internationalization
 License:	GPL
-URL:		http://taiyaki.org/suikyo/
+URL:		https://taiyaki.org/suikyo/
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	ruby
 BuildRequires:	ruby-devel
