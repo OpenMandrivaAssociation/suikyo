@@ -15,6 +15,11 @@ License:	GPL
 URL:		https://taiyaki.org/suikyo/
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	ruby
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	ruby-devel
 
 %package -n %{devname}
